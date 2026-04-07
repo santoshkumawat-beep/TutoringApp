@@ -1,0 +1,48 @@
+# Android Studio
+
+# Gradle files
+.gradle/
+build/
+*/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio Navigation Design files
+.navigation/**
+
+# APK files
+*.apk
+*.ap_ 
+
+# Java class files
+*.class
+
+# Java 8+ language feature files
+*.jar
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# User-specific configurations
+*.ipr
+*.iws
+*.swp
+
+# External native build folder generated in Android Studio 2.2 and later
+.external_native_build/
+
+# Gradle cache
+.gradle/caches/
+.gradle/wrapper/
+
+# Signing files
+*.keystore
+*.jks
+
+# Files to ignore in root
+/.DS_Store
+/*.log
+# External libraries
+libs/
